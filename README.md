@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Prashant, a software engineer, currently working with CRED
+- 👋 Hi, I’m Prashant, a software engineer, currently working with Atlys
 - Let us connect here - https://linktr.ee/pktparticle
