@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Prashant, a software engineer, currently working with Atlys
+- 👋 Hi, I’m Prashant, a software engineer, currently working with LinkedIn
 - Let us connect here - https://linktr.ee/pktparticle
